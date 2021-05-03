@@ -27,7 +27,7 @@ There is a very clear and symmetrical relationship between successful and failed
 
 ### Challenges and Difficulties Encountered
 - Theatre Outcomes/Launch Date has a missing value for the month of October.
-- Goals/Outcomes results needed to be adjusted for the last label which stated it should be "Greater than 50000". This was changed to **greater than or equal to 50000** in the analysis and the labels and chart were subsequently changed.
+- Goals/Outcomes results needed to be adjusted for the last label which stated it should be "Greater than 50000" in the original request. This was changed to **greater than or equal to 50000** in the analysis and the labels and chart were subsequently changed.
 - Formatting of the chart labels involved trial and error to determine how they should be annotated and also displayed for a clear visual presentaion.
 - Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles, chart details and labels are being correctly displayed.
 
@@ -41,13 +41,13 @@ Conclusions based on Goals/Outcomes:
 - Our client, Louise, should target projects that require less than $20,000 or between $35,000 to $45,000 for a better opportunity for success.
 
 Limitations of this dataset:
-- The dataset may not be representative of all crowdfunding projects
+- The dataset may not be representative of all crowdfunding projects.
 - The data may of been collected from different sources which can cause issues of quality and consistency.
-- We did not have any cancelled outcomes in the data timeframe, as such, the results may be different if we use a larger data set or outcomes of this value appear in the future
-- There appears to be data missing for cancelled theatre campaigns in October 
+- We did not have any cancelled outcomes in the data timeframe, as such, the results may be different if we use a larger data set or outcomes of this value appear in the future.
+- There appears to be data missing for cancelled theatre campaigns in October and we can only rely on the dataset provided.
 
 Possible tables and/or graphs that we could create:
-- We can further analyse how the data is distributed and calculate the three key measures of central tendency : mean, median and mode
+- We can further analyse how the data is distributed and calculate the three key measures of central tendency : mean, median and mode.
 - We can also review the distribution of the dataset in terms of measures of spread and calculate range, variance, standard deviation and quartiles.
-- We can take a very close look at Outliers and make a determination of whether or not we should include extreme values
-- In order to effectively show the distribution visually and make it that much easier to comprehend we can use box and whisker plots
+- We can take a very close look at Outliers and make a determination of whether or not we should include extreme values.
+- In order to effectively show the distribution visually and make it that much easier to comprehend we can use box and whisker plots.
