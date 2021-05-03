@@ -20,17 +20,16 @@ By reviewing the chart we can see that successful campaigns move higher in the e
 
 
 ### Analysis of Outcomes Based on Goals
-There is a very clear and symmetrical relationship between successful and failed outcomes as you can see from the diagram. This symmetry of outcome takes place at the 50% threshold. Also, the summary data does not contain any instances of Cancelled, but values for Successful and Failed are present. For the two outcomes that have related data, we can identify this as a strong negative correlation to each other as they move in opposite directions to each other. 
+There is a very clear and symmetrical relationship between successful and failed outcomes as you can see from the diagram. This symmetry of outcome takes place at the 50% threshold. Also, the summary data does not contain any instances of cancelled, but values for successful and failed are present. For the two outcomes that have related data, we can identify this as a strong negative correlation to each other as they move in opposite directions to each other. 
 
 ![Outcoms vs Goals](Resources/Outcomes_vs_Goals2.png)
 
 
 ### Challenges and Difficulties Encountered
 - Theatre Outcomes/Launch Date has a missing value for the month of October.
-- 
-- Goals/Outcomes results needs to be adjusted for the last label which stated it should be "Greater than 50000". This was changed to **greater than or equal to 50000** in the analysis and the labels subsequently changed.
-- Formatting of the charts took a while to determine how percentages should be calculated and also displayed in both charts for a clear visual presentaion.
-- Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles chart details and labels were correctly displayed.
+- Goals/Outcomes results needed to be adjusted for the last label which stated it should be "Greater than 50000". This was changed to **greater than or equal to 50000** in the analysis and the labels and chart were subsequently changed.
+- Formatting of the chart labels involved trial and error to determine how they should be annotated and also displayed for a clear visual presentaion.
+- Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles, chart details and labels were correctly displayed.
 
 ## Results
 Two conclusions that can be reached about the Outcomes based on Launch Date analysis:
@@ -39,7 +38,7 @@ Two conclusions that can be reached about the Outcomes based on Launch Date anal
 
 Conclusions based on Goals/Outcomes:
 - From the Outcomes based on Goals analysis we can see projects that have a goal of under $20,000 or between $35,000 and 45,000 at this threshold tend to have a 50% or more chance of success based on Goals vs Outcomes. Campaigns that are funded at $5,000 or less have approximately 75% chance of success and approximate 65% chance of success between $35,000 and $45,000.
-- Louise should target projects that require less than $20,000 or between $35,000 to $45,000 for a better opportunity for success.
+- Our client, Louise, should target projects that require less than $20,000 or between $35,000 to $45,000 for a better opportunity for success.
 
 Limitations of this dataset:
 - The dataset may not be representative of all crowdfunding projects
