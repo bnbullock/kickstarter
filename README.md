@@ -49,5 +49,5 @@ Limitations of this dataset:
 Possible tables and/or graphs that we could create:
 - We can further analyse how the data is distributed and calculate the three key measures of central tendency : mean, median and mode.
 - We can also review the distribution of the dataset in terms of measures of spread and calculate range, variance, standard deviation and quartiles.
-- We can take a very close look at Outliers and make a determination of whether or not we should include extreme values.
+- We can take a very close look at Outliers and make a determination of whether or not we should include extreme values. For example, we can use the median and IQR together to determine outliers then decide on whether we should keep or remove them.
 - In order to effectively show the distribution visually and make it that much easier to comprehend we can use box and whisker plots.
