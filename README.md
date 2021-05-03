@@ -14,7 +14,7 @@ Our client, Louise, wants to know how different kickstarter projects fared in re
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-By reviewing the chart we can see that successful campaigns move higher in the early part of the year and peak in May. We then see a monthly degradation of funded projects as this tapers off towards the end of the year.
+By reviewing the chart we can see that successful campaigns move higher in the early part of the year and peak in early May. We then see a monthly degradation of funded projects as contributions taper off towards the end of the year.
 
 ![Theater Outcomes based on Launch Dates](Resources/Theater_Outcomes_vs_Launch.png)
 
@@ -22,12 +22,15 @@ By reviewing the chart we can see that successful campaigns move higher in the e
 ### Analysis of Outcomes Based on Goals
 There is a very clear and symmetrical relationship between successful and failed outcomes as you can see from the diagram. This symmetry of outcome takes place at the 50% threshold. Also, the summary data does not contain any instances of Cancelled, but values for Successful and Failed are present. For the two outcomes that have related data, we can identify this as a strong negative correlation to each other as they move in opposite directions to each other. 
 
-![Outcoms vs Goals](Resources/Outcomes_vs_Goals.png)
+![Outcoms vs Goals](Resources/Outcomes_vs_Goals2.png)
 
 
 ### Challenges and Difficulties Encountered
-- Formatting of the charts took a while to determine how percentages should be calculated and also displayed in the Goals/Outcomes analysis.
+- Theatre Outcomes/Launch Date has a missing value for the month of October.
 - 
+- Goals/Outcomes results needs to be adjusted for the last label which stated it should be "Greater than 50000". This was changed to **greater than or equal to 50000** in the analysis and the labels subsequently changed.
+- Formatting of the charts took a while to determine how percentages should be calculated and also displayed in both charts for a clear visual presentaion.
+- Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles chart details and labels were correctly displayed.
 
 ## Results
 Two conclusions that can be reached about the Outcomes based on Launch Date analysis:
