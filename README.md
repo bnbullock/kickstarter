@@ -20,13 +20,14 @@ By reviewing the chart we can see that successful campaigns move higher in the e
 
 
 ### Analysis of Outcomes Based on Goals
-There is a very clear and symmetrical relationship between successful and failed outcomes as you can see from the diagram. This symmetry of outcome takes place at the 50% threshold. Also, the summary data does not contain any instances of Cancelled, but values for Successful and Failed are present. For these two outcomes, we can identify this as a strong negative correlation to each other as they move in opposite directions to each other. 
+There is a very clear and symmetrical relationship between successful and failed outcomes as you can see from the diagram. This symmetry of outcome takes place at the 50% threshold. Also, the summary data does not contain any instances of Cancelled, but values for Successful and Failed are present. For the two outcomes that have related data, we can identify this as a strong negative correlation to each other as they move in opposite directions to each other. 
 
 ![Outcoms vs Goals](Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
 - Formatting of the charts took a while to determine how percentages should be calculated and also displayed in the Goals/Outcomes analysis.
+- 
 
 ## Results
 Two conclusions that can be reached about the Outcomes based on Launch Date analysis:
@@ -34,8 +35,7 @@ Two conclusions that can be reached about the Outcomes based on Launch Date anal
 - We also see a moderately positive correlation between successful and failed funding of projects. Both of these types will get funding but successful campaigns will get more funding generally. The data for cancelled campaigns appears to be mixed and inconclusive.
 
 Conclusions based on Goals/Outcomes:
-- From the Outcomes based on Goals analysis we can see projects that have a goal of under $20,000 or between $35,000 and 45,000 at this threshold tend to have a 50% or more chance of success. Campaigns that are funded at $5,000 or less have approximately 75% chance of success and approximate 65% chance of success between 
-$35,000 and $45,000.
+- From the Outcomes based on Goals analysis we can see projects that have a goal of under $20,000 or between $35,000 and 45,000 at this threshold tend to have a 50% or more chance of success based on Goals vs Outcomes. Campaigns that are funded at $5,000 or less have approximately 75% chance of success and approximate 65% chance of success between $35,000 and $45,000.
 - Louise should target projects that require less than $20,000 or between $35,000 to $45,000 for a better opportunity for success.
 
 Limitations of this dataset:
@@ -45,5 +45,7 @@ Limitations of this dataset:
 - There appears to be data missing for cancelled theatre campaigns in October 
 
 Possible tables and/or graphs that we could create:
-- Standard deviation, Mean, Mode, Median
-- Box Whisker
+- We can further analyse how the data is distributed and calculate the three key measures of central tendency : mean, median and mode
+- We can also review the distribution of the dataset in terms of measures of spread and calculate range, variance, standard deviation and quartiles.
+- We can take a very close look at Outliers and make a determination of whether or not we should include extreme values
+- In order to effectively show the distribution visually and make it that much easier to comprehend we can use box and whisker plots
