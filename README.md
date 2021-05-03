@@ -29,7 +29,7 @@ There is a very clear and symmetrical relationship between successful and failed
 - Theatre Outcomes/Launch Date has a missing value for the month of October.
 - Goals/Outcomes results needed to be adjusted for the last label which stated it should be "Greater than 50000". This was changed to **greater than or equal to 50000** in the analysis and the labels and chart were subsequently changed.
 - Formatting of the chart labels involved trial and error to determine how they should be annotated and also displayed for a clear visual presentaion.
-- Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles, chart details and labels were correctly displayed.
+- Capturing the screenshots properly and testing to make sure they rendered properly in the report took a bit of efffort to ensure all titles, chart details and labels are being correctly displayed.
 
 ## Results
 Two conclusions that can be reached about the Outcomes based on Launch Date analysis:
